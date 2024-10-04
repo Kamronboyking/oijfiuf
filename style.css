@@ -1,0 +1,15 @@
+form{
+    background-color: rgb(11, 11, 58);
+}
+.text1{
+    color: yellow;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+.text2{
+    color: white;
+    text-align: center;
+}
+span{
+    color: green;
+}
